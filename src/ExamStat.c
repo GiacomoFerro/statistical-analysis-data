@@ -4,15 +4,14 @@
 #include <stdbool.h>
 
 /*
+
 Necessita di un file input,txt con matricole e voti nella forma:
 con "INS" : voto <=18.
 con "30L" : voto == 30 e lode.
 
 12345678-n1
 98765432-m1
-
 ...
-
 
 ritorna un file results.txt con i risultati statistici.
 
